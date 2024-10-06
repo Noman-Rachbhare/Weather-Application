@@ -1,4 +1,4 @@
-ko# Weather-Application
+# Weather-Application
 
 This project is a Weather  application that allows users to search for current weather of any city. Users can also get weather information for their current location using the Geolocation API.
 
@@ -46,7 +46,7 @@ This project uses the OpenWeatherMap API. You need to have an API key to fetch t
 
 ## Project Structure
 ```
-weather-Application/
+Weather-Application/
 │
 ├── index.html # Main HTML file
 ├── style.css # CSS file for styling
